@@ -1,4 +1,4 @@
-<h1 align="center"> Calendario  </h1>
+<h1 align="center"> Calendario da Copa Qatar 2022 </h1>
 
 <p align="center">
 Projeto desenvolvido atraves do evento promovido pela Rocketseat para ensino de tecnologias WEB.
@@ -18,7 +18,7 @@ Projeto desenvolvido atraves do evento promovido pela Rocketseat para ensino de 
 <br>
 
 <p align="center">
-  <img alt="calendario da copa" src=".github/capa.jpg" width="100%">
+  <img alt="calendario da copa" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
