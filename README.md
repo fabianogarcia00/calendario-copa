@@ -33,7 +33,7 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-Qatar 2022 Cup Calendar, with game times in Vancouver's Time Zone (UTC/GMT -7 hours).
+Qatar 2022 Cup Matches, times in Vancouver's Time Zone (UTC/GMT -8 hours).
 
 ## 🔖 Layout
 
