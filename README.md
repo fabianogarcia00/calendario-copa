@@ -1,14 +1,14 @@
-<h1 align="center"> Calendario da Copa Qatar 2022 </h1>
+<h1 align="center"> FIFA World Cup 2022 Qatar 2022 </h1>
 
 <p align="center">
-Projeto desenvolvido atraves do evento promovido pela Rocketseat para ensino de tecnologias WEB.
+Project developed through the event promoted by Rocketseat for teaching WEB technologies.
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#memo-licença">License</a>
 </p>
 
 <p align="center">
@@ -21,9 +21,9 @@ Projeto desenvolvido atraves do evento promovido pela Rocketseat para ensino de 
   <img alt="calendario da copa" src=".github/preview.jpg" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - HTML
 - CSS
@@ -31,16 +31,16 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git
 - GitHub 
 
-## 💻 Projeto
+## 💻 Project
 
-Calendario da copa Qatar 2022, com os horarios dos jogos no Time Zone de Vancouver (UTC/GMT -7 hours).
+Qatar 2022 Cup Calendar, with game times in Vancouver's Time Zone (UTC/GMT -7 hours).
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/LcXxDLPXB4wOKpSAQNO3JZ/Calend%C3%A1rio-de-Jogos-(Community)?node-id=172%3A179). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+You can view the layout of the project through [LINK](https://www.figma.com/file/LcXxDLPXB4wOKpSAQNO3JZ/Calend%C3%A1rio-de-Jogos-(Community)?node-id=172%3A179). You need an account on [Figma](https://figma.com) to access it.
 
-## :memo: Licença
+## :memo: License
 
-Esse projeto está sob a licença MIT.
+This project is under the MIT license.
 
 ---
