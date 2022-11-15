@@ -50,7 +50,7 @@ body * {
 }
 
 header {
-  margin-bottom: 63px;
+  margin-bottom: 24px;
   text-align: center;
 }
 
@@ -58,6 +58,7 @@ header {
   display: flex;
   flex-direction: column;
   gap: 32px;
+  
 }
 
 .card {
@@ -113,12 +114,14 @@ header {
   color: #E1E1E6;
 }
 
+.countries h1:hover,
 .card h2:hover,
 .card ul li strong:hover,
 .card ul li img:hover {
   transform: scale(1.1);
 }
 
+.countries h1,
 .card h2,
 .card ul li strong,
 .card ul li img {
@@ -128,6 +131,14 @@ header {
 .card{
   opacity: 0;
   animation: appear 0.2s forwards;
+}
+
+.countries {
+  display: flex;
+  justify-content:space-between;
+  color: #e1e1e6;
+  font-size: 7px;
+  padding: 2px 10px; 
 }
 
 @keyframes appear {
@@ -146,4 +157,23 @@ header {
     flex-direction: row;
     flex-wrap: wrap;
   }
+}
+
+footer div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  size: fit-content;
+}
+ 
+footer a {
+  margin-left: 5px;
+  color: #e1e1e6;
+}
+
+footer p {
+  font-size: 14px;
+  color: #F7DD43;
 }
