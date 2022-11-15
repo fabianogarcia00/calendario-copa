@@ -177,3 +177,8 @@ footer p {
   font-size: 14px;
   color: #F7DD43;
 }
+
+.card ul div + li {
+  padding-top: 24px;
+  border-top: 2px solid #746615;
+}
