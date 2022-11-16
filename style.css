@@ -171,6 +171,7 @@ footer div {
 footer a {
   margin-left: 5px;
   color: #e1e1e6;
+  text-decoration: none;
 }
 
 footer p {
